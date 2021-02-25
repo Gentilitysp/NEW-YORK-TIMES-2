@@ -100,15 +100,6 @@
   border-bottom: 1px solid #ccc;
 }
 
-.editors-pick,
-p {
-  display: inline;
-  width: inherit;
-  font-size: 15px;
-  color: #000;
-  text-decoration: none;
-}
-
 .editors-pick img {
   display: block;
   float: left;
