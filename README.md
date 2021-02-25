@@ -1,7 +1,7 @@
 # NEW-YORK-TIMES
 This is a floating and positioning prject where I placed images on grid in line with the articles using HTML5 and CSS3 only.
 
-![screenshot](./images/nyt-100.PNG)
+![screenshot](./imgs/screenshot.PNG)
 
 ## The following are some   of the features of this project:
 
