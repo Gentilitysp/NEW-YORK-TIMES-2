@@ -100,7 +100,8 @@
   border-bottom: 1px solid #ccc;
 }
 
-.editors-pick p {
+.editors-pick,
+p {
   display: inline;
   width: inherit;
   font-size: 15px;
@@ -183,6 +184,7 @@ p {
   height: 1px;
   text-align: left;
 }
+
 .box {
   width: 225px;
   height: 150px;
@@ -228,7 +230,6 @@ p {
   width: 580px;
   align-self: center;
 }
-
 
 .comment-form {
   margin-top: 20px;
@@ -359,7 +360,6 @@ p {
 .links-list h4 {
   margin: 10px 0;
 }
-
 
 .suggested {
   max-width: 942px;
