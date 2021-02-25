@@ -1,0 +1,36 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  .Body-content {
+    min-width: 100%;
+    align-items: center;
+  }
+  
+  .page-top {
+    width: 100%;
+    align-items: center;
+  }
+  
+  .top-nav {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 45px;
+    border-bottom: 1px ridge #ccc;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    background-color: #fff;
+    padding-top: 10px;
+  }
+  .button {
+      cursor: pointer;
+  }
+  
+  .nav-items {
+    margin: 10px;
+  }
